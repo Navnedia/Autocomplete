@@ -1,0 +1,21 @@
+20
+99	apple
+105	car
+106	dinosaur
+95	father
+76	zebra
+7	computer
+30	table
+15	monitor
+20	teacher
+21	sister
+31	church
+205	phone
+270	text
+305	aardvark
+405	temporary
+430	tenacity
+480	tenure
+520	tenant
+520	ten
+206	terrorist
